@@ -1,5 +1,5 @@
 
-# Trabalho de SO
+# Projeto de Sistemas Operativos
 
 ## Autores
 
